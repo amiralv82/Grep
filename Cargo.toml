@@ -1,0 +1,13 @@
+[package]
+name = "grepos"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+walkdir = "2.3.1"
+regex = "1.5.4"
+threadpool = "1.8.1"
+rayon = "1.5.1"
+num_cpus = "1.0"
