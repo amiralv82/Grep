@@ -1,5 +1,3 @@
-Creating a comprehensive README for your GitHub repository is crucial for helping users understand your code, its purpose, and how to use it effectively. Below, I've provided a template for your README based on your code and the options you've implemented. Remember to replace placeholders with actual content:
-
 # Text Search Tool
 
 This is a versatile text search tool developed in Rust that allows you to search for specific patterns in files and directories. It offers various search options, including case-insensitive searching, non-matching results, and the ability to search within directories.
